@@ -133,10 +133,10 @@ const EducationCard = ({ education }) => {
         <Card>
             <Top>
                 <Image src={education.img} />
-                <Body>
-                    <Name>{education.school}</Name>
-                    <Degree>{education.degree}</Degree>
-                    <Date>{education.date}</Date>
+                <Body >
+                    <Name style={{color: 'white'}}>{education.school}</Name>
+                    <Degree style={{color: 'white'}}>{education.degree}</Degree>
+                    <Date style={{color: 'white'}}> {education.date}</Date>
                 </Body>
             </Top>
             <Grade><b>Grade: </b>{education.grade}</Grade>

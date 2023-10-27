@@ -1,6 +1,6 @@
 import React from 'react'
 import HeroBgAnimation from '../HeroBgAnimation'
-import { HeroContainer, HeroBg, HeroLeftContainer, Img, HeroRightContainer, HeroInnerContainer, TextLoop, Title, Span, SubTitle, SocialMediaIcons, SocialMediaIcon, ResumeButton ,  } from './HeroStyle'
+import { HeroContainer, HeroBg, HeroLeftContainer, Img, HeroRightContainer, HeroInnerContainer, TextLoop, Title, Span, SubTitle, SocialMediaIcons, SocialMediaIcon, ResumeButton, } from './HeroStyle'
 import HeroImg from '../../images/HeroImage.jpg'
 import Typewriter from 'typewriter-effect';
 import { Bio } from '../../data/constants';
@@ -11,6 +11,7 @@ import TwitterIcon from '@mui/icons-material/Twitter';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import YouTubeIcon from '@mui/icons-material/YouTube';
+import GitHub from '@mui/icons-material/GitHub';
 const HeroSection = () => {
     const SocialMediaIcons = styled.div`
   display: flex;
@@ -24,9 +25,8 @@ const HeroSection = () => {
                 </HeroBg>
                 <HeroInnerContainer >
                     <HeroLeftContainer id="Left">
-                        <Title>Hi, I am <br /> {Bio.name}</Title>
+                        <Title>Hey 👋, I am <br /> {Bio.name}</Title>
                         <TextLoop>
-                            I am a
                             <Span>
                                 <Typewriter
                                     options={{
@@ -41,7 +41,7 @@ const HeroSection = () => {
                         <ResumeButton href={Bio.resume} target='display'>Check Resume</ResumeButton>
                         <SocialMediaIcons>
                             <SocialMediaIcon href={Bio.youtube} target="display"><YouTubeIcon /></SocialMediaIcon>
-                            <SocialMediaIcon href={Bio.twitter} target="display"><TwitterIcon /></SocialMediaIcon>
+                            <SocialMediaIcon href={Bio.twitter} target="display"><GitHub /></SocialMediaIcon>
                             <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
                             <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
                         </SocialMediaIcons>

@@ -151,8 +151,8 @@ const ExperienceCard = ({ experience }) => {
                 <Image src={experience.img} />
                 <Body>
                     <Role>{experience.role}</Role>
-                    <Company>{experience.company}</Company>
-                    <Date>{experience.date}</Date>
+                    <Company> <a style={{textDecoration: 'none' , color: 'white'}} href={experience.companyLink} target="_blank"> {experience.company}</a></Company>
+                    <Date style={{color: 'white'}} >{experience.date}</Date>
                 </Body>
             </Top>
             <Description>
