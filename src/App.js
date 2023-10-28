@@ -3,7 +3,7 @@ import { useState } from "react";
 import { darkTheme, lightTheme } from './utils/Themes.js'
 import Navbar from "./components/Navbar";
 import './App.css';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import HeroSection from "./components/HeroSection";
 
 import Skills from "./components/Skills";
@@ -14,6 +14,10 @@ import Experience from "./components/Experience";
 import Education from "./components/Education";
 import ProjectDetails from "./components/ProjectDetails";
 import styled from "styled-components";
+import Secret from "./components/Secret/Secret.js";
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+import MainContent from "./components/MainContent/MainContent.js";
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -29,11 +33,21 @@ const Wrapper = styled.div`
 function App() {
   const [darkMode, setDarkMode] = useState(true);
   const [openModal, setOpenModal] = useState({ state: false, project: null });
-  console.log(openModal)
-  return (
-    <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
-      <Router >
+  // console.log(openModal)
+
+  function LayoutWrapper({children}){
+    return (
+      <>
         <Navbar />
+        {children}
+      </>
+    )
+  }
+  const router = createBrowserRouter([
+    {
+      path: "/",
+      element: <LayoutWrapper
+        children={<>
         <Body>
           <HeroSection />
           <Wrapper>
@@ -50,7 +64,21 @@ function App() {
             <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />
           }
         </Body>
-      </Router>
+      </>}
+      />,
+    },
+    {
+      path: "/secret",
+      element: <LayoutWrapper children={<Secret />} />
+    },
+    {
+      path: "/allContent",
+      element: <LayoutWrapper children={<MainContent />} />
+    }
+  ]);
+  return (
+    <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
+      <RouterProvider router={router} />
     </ThemeProvider>
   );
 }
