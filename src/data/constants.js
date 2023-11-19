@@ -20,7 +20,7 @@ export const Bio = {
     "I am a full-stack developer with over 2 years of experience at Affworld Technologies, where I played a key role in developing cutting-edge websites and software solutions. In my role, I was responsible for both the admin panel and advisor panel of the website, and I also managed AWS server deployments. Additionally, I gained experience as a React Intern at IMMWIT Pvt Ltd. My skillset includes proficiency in React, React Native, Node.js, and MongoDB",
   github: "https://github.com/laxmikant007",
   resume:
-    "https://drive.google.com/file/d/1GQasLaaZYF4_9kmuJYJXL5v5nsCmup-y/view",
+    "https://drive.google.com/file/d/1YY8PTzh0MpkbDTH12WUVfKehXZ1S21XS/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/laxmikant-saraswat",
   twitter: "https://github.com/laxmikant007",
   insta: "https://www.instagram.com/laxmikant_sarswat",
