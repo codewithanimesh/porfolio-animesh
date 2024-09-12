@@ -88,7 +88,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo style={{color: 'white'}}>Laxmikant Saraswat</Logo>
+        <Logo style={{color: 'white'}}>Animesh Kumar</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -103,7 +103,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Laxmikant Saraswat. All rights reserved.
+          &copy; 2023 animesh. All rights reserved.
         </Copyright>
 
       </FooterWrapper>

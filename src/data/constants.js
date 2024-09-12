@@ -10,20 +10,20 @@ import nike from "./images/nike.png";
 import simon from "./images/simon.png";
 import alexa from "./images/alexa.png";
 import meme from "./images/memes.jpg"
-
+import img from "./images/backimage.png"
 export const Bio = {
-  name: "Laxmikant Saraswat",
+  name: "Animesh Kumar",
   roles: [
-    "Full Stack Developer @Affworld",
+    "Full Stack Developer @Pixel bharat",
   ],
   description:
     "I am a full-stack developer with over 2 years of experience at Affworld Technologies, where I played a key role in developing cutting-edge websites and software solutions. In my role, I was responsible for both the admin panel and advisor panel of the website, and I also managed AWS server deployments. Additionally, I gained experience as a React Intern at IMMWIT Pvt Ltd. My skillset includes proficiency in React, React Native, Node.js, and MongoDB",
-  github: "https://github.com/laxmikant007",
+  github: "https://github.com/codewithanimesh",
   resume:
     "https://drive.google.com/file/d/1YY8PTzh0MpkbDTH12WUVfKehXZ1S21XS/view?usp=drive_link",
-  linkedin: "https://www.linkedin.com/in/laxmikant-saraswat",
-  twitter: "https://github.com/laxmikant007",
-  insta: "https://www.instagram.com/laxmikant_sarswat",
+  linkedin: "https://www.linkedin.com/in/animesh-kumar-21b29420b/",
+  twitter: "https://github.com/animesh007",
+  insta: "https://www.instagram.com/Animesh kuamar_sarswat",
   youtube: "https://www.youtube.com/channel/UCiO3jHJTOi-LRoE1Ta4bMLw/featured",
 };
 
@@ -288,14 +288,14 @@ export const projects = [
     image: pixis,
     tags: ["React Native", "JavaScript", "Axios", "Dall-E", "Node"],
     category: "Web app",
-    github: "https://github.com/laxmikant007/Pixis",
+    github: "https://github.com/Animesh kuamar007/Pixis",
     webapp: "https://pixis-ai-01a6.onrender.com",
     member: [
       {
-        name: "Laxmiaknt Saraswat",
-        img: "https://avatars.githubusercontent.com/u/74814381?v=4",
-        linkedin: "https://www.linkedin.com/in/laxmikant-saraswat",
-        github: "https://github.com/laxmikant007",
+        name: "Animesh Kumar",
+        img: "https://cdn.pixabay.com/photo/2014/04/03/11/47/avatar-312160_1280.png",
+        linkedin: "https://www.linkedin.com/in/Animesh kuamar-saraswat",
+        github: "https://github.com/Animesh kuamar007",
       }
     ],
 
@@ -319,14 +319,14 @@ export const projects = [
       "Context-API",
     ],
     category: "web app",
-    github: "https://github.com/laxmikant007/Ecomm2023",
+    github: "https://github.com/Animesh kuamar007/Ecomm2023",
     webapp: "https://mahaver-medicos.vercel.app",
     member: [
       {
-        name: "Laxmiaknt Saraswat",
-        img: "https://avatars.githubusercontent.com/u/74814381?v=4",
-        linkedin: "https://www.linkedin.com/in/laxmikant-saraswat",
-        github: "https://github.com/laxmikant007",
+        name: "Animesh Kumar",
+        img:  "https://cdn.pixabay.com/photo/2014/04/03/11/47/avatar-312160_1280.png",
+        linkedin: "https://www.linkedin.com/in/Animesh kuamar-saraswat",
+        github: "https://github.com/Animesh kuamar007",
       }
     ],
   },
@@ -343,23 +343,18 @@ export const projects = [
     webapp: "https://crewrental.co/",
     member: [
       {
-        name: "Laxmiaknt Saraswat",
-        img: "https://avatars.githubusercontent.com/u/74814381?v=4",
-        linkedin: "https://www.linkedin.com/in/laxmikant-saraswat",
-        github: "https://github.com/laxmikant007",
+        name: "Animesh Kumar",
+        img:  "https://cdn.pixabay.com/photo/2014/04/03/11/47/avatar-312160_1280.png",
+        linkedin: "https://www.linkedin.com/in/Animesh kuamar-saraswat",
+        github: "https://github.com/Animesh kuamar007",
       },
       {
         name: "Anshu Verma",
         img: "https://avatars.githubusercontent.com/u/99492094?v=4",
-        linkedin: "https://www.linkedin.com/in/laxmikant-saraswat",
+        linkedin: "https://www.linkedin.com/in/Animesh kuamar-saraswat",
         github: "https://github.com/anshu0202",
       },
-      {
-        name: "Seea Rani",
-        img: "https://avatars.githubusercontent.com/u/89650047?v=4",
-        linkedin: "https://www.linkedin.com/in/laxmikant-saraswat",
-        github: "https://github.com/Seeagarg",
-      },
+   
 
     ],
   },
@@ -379,14 +374,14 @@ export const projects = [
 
     ],
     category: "web app",
-    github: "https://github.com/laxmikant007/News-Tech",
-    webapp: "https://laxmikant007.github.io/News-Tech",
+    github: "https://github.com/Animesh kuamar007/News-Tech",
+    webapp: "https://Animesh kuamar007.github.io/News-Tech",
     member: [
       {
-        name: "Laxmiaknt Saraswat",
-        img: "https://avatars.githubusercontent.com/u/74814381?v=4",
-        linkedin: "https://www.linkedin.com/in/laxmikant-saraswat",
-        github: "https://github.com/laxmikant007",
+        name: "Animesh Kumar",
+        img:  "https://cdn.pixabay.com/photo/2014/04/03/11/47/avatar-312160_1280.png",
+        linkedin: "https://www.linkedin.com/in/Animesh kuamar-saraswat",
+        github: "https://github.com/Animesh kuamar007",
       }
     ],
   },
@@ -405,14 +400,14 @@ export const projects = [
       "Redux",
     ],
     category: "web app",
-    github: "https://github.com/laxmikant007/Snappy-Front",
+    github: "https://github.com/Animesh kuamar007/Snappy-Front",
     webapp: "https://snappy-7nr7.onrender.com",
     member: [
       {
         name: "Laxmiaknt Saraswat",
         img: "https://avatars.githubusercontent.com/u/74814381?v=4",
-        linkedin: "https://www.linkedin.com/in/laxmikant-saraswat",
-        github: "https://github.com/laxmikant007",
+        linkedin: "https://www.linkedin.com/in/Animesh kuamar-saraswat",
+        github: "https://github.com/Animesh kuamar007",
       }
     ],
   },
@@ -425,14 +420,14 @@ export const projects = [
     image: codex,
     tags: ["OpenAI", "Node", "React-Vite", "MongoDB"],
     category: "Web app",
-    github: "https://github.com/laxmikant007/Codex-FrontEnd",
+    github: "https://github.com/Animesh kuamar007/Codex-FrontEnd",
     webapp: "https://codex-ai-six-drab.vercel.app",
     member: [
       {
-        name: "Laxmiaknt Saraswat",
-        img: "https://avatars.githubusercontent.com/u/74814381?v=4",
-        linkedin: "https://www.linkedin.com/in/laxmikant-saraswat",
-        github: "https://github.com/laxmikant007",
+        name: "Animesh Kumar",
+        img: "https://cdn.pixabay.com/photo/2014/04/03/11/47/avatar-312160_1280.png",
+        linkedin: "https://www.linkedin.com/in/Animesh kuamar-saraswat",
+        github: "https://github.com/Animesh kuamar007",
       }
     ],
   },
@@ -445,14 +440,14 @@ export const projects = [
     image: universal,
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
-    github: "https://github.com/laxmikant007/Universal-Movies1",
-    webapp: "https://laxmikant007.github.io/Universal-Movies1",
+    github: "https://github.com/Animesh kuamar007/Universal-Movies1",
+    webapp: "https://Animesh kuamar007.github.io/Universal-Movies1",
     member: [
       {
-        name: "Laxmiaknt Saraswat",
-        img: "https://avatars.githubusercontent.com/u/74814381?v=4",
-        linkedin: "https://www.linkedin.com/in/laxmikant-saraswat",
-        github: "https://github.com/laxmikant007",
+        name: "Animesh Kumar",
+        img: "https://cdn.pixabay.com/photo/2014/04/03/11/47/avatar-312160_1280.png",
+        linkedin: "https://www.linkedin.com/in/Animesh kuamar-saraswat",
+        github: "https://github.com/Animesh kuamar007",
       }
     ],
   },
@@ -469,14 +464,14 @@ export const projects = [
     image: weather,
     tags: ["React Js", "Weather-API", "Node JS"],
     category: "web app",
-    github: "https://github.com/laxmikant007/Weather-City",
+    github: "https://github.com/Animesh kuamar007/Weather-City",
     webapp: "https://weather-city.onrender.com/",
     member: [
       {
-        name: "Laxmiaknt Saraswat",
-        img: "https://avatars.githubusercontent.com/u/74814381?v=4",
-        linkedin: "https://www.linkedin.com/in/laxmikant-saraswat",
-        github: "https://github.com/laxmikant007",
+        name: "Animesh Kumar",
+        img:  "https://cdn.pixabay.com/photo/2014/04/03/11/47/avatar-312160_1280.png",
+        linkedin: "https://www.linkedin.com/in/Animesh kuamar-saraswat",
+        github: "https://github.com/Animesh kuamar007",
       }
     ],
   },
@@ -489,7 +484,7 @@ export const projects = [
     image: nike,
     tags: ["React Js", "Local Storage", "Redux", "Node JS", "Context-API"],
     category: "web app",
-    github: "https://github.com/laxmikant007/NIke-Redux",
+    github: "https://github.com/Animesh kuamar007/NIke-Redux",
     webapp: "https://nike-n2vn.onrender.com",
   },
   {
@@ -501,14 +496,14 @@ export const projects = [
     image: simon,
     tags: ["Html", "CSS", "Reactjs"],
     category: "web app",
-    github: "https://github.com/laxmikant007/Simon-Game",
-    webapp: "https://laxmikant007.github.io/Simon-Game/",
+    github: "https://github.com/Animesh kuamar007/Simon-Game",
+    webapp: "https://Animesh kuamar007.github.io/Simon-Game/",
     member: [
       {
-        name: "Laxmiaknt Saraswat",
-        img: "https://avatars.githubusercontent.com/u/74814381?v=4",
-        linkedin: "https://www.linkedin.com/in/laxmikant-saraswat",
-        github: "https://github.com/laxmikant007",
+        name: "Animesh Kumar",
+        img:  "https://cdn.pixabay.com/photo/2014/04/03/11/47/avatar-312160_1280.png",
+        linkedin: "https://www.linkedin.com/in/Animesh kuamar-saraswat",
+        github: "https://github.com/Animesh kuamar007",
       }
     ],
   },
@@ -521,14 +516,14 @@ export const projects = [
     image: alexa,
     tags: ["Python", "Open CV", "API"],
     category: "Web app",
-    github: "https://github.com/laxmikant007/Akexa_Desktop",
+    github: "https://github.com/Animesh kuamar007/Akexa_Desktop",
     // webapp: "https://github.com/rishavchanda/Quiz-Earn",
     member: [
       {
-        name: "Laxmiaknt Saraswat",
-        img: "https://avatars.githubusercontent.com/u/74814381?v=4",
-        linkedin: "https://www.linkedin.com/in/laxmikant-saraswat",
-        github: "https://github.com/laxmikant007",
+        name: "Animeshh Kumar",
+        img:  "https://cdn.pixabay.com/photo/2014/04/03/11/47/avatar-312160_1280.png",
+        linkedin: "https://www.linkedin.com/in/Animesh kuamar-saraswat",
+        github: "https://github.com/Animesh kuamar007",
       }
     ],
   },
@@ -541,14 +536,14 @@ export const projects = [
     image: meme,
     tags: ["Android", "Java", "Kotlin", "Emulator", "Android-Studio"],
     category: "Android App",
-    github: "https://github.com/laxmikant007/MemeShare",
+    github: "https://github.com/Animesh kuamar007/MemeShare",
     // webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
     member: [
       {
-        name: "Laxmiaknt Saraswat",
-        img: "https://avatars.githubusercontent.com/u/74814381?v=4",
-        linkedin: "https://www.linkedin.com/in/laxmikant-saraswat",
-        github: "https://github.com/laxmikant007",
+        name: "Animesh Kumar",
+        img:  "https://cdn.pixabay.com/photo/2014/04/03/11/47/avatar-312160_1280.png",
+        linkedin: "https://www.linkedin.com/in/Animesh kuamar-saraswat",
+        github: "https://github.com/Animesh kuamar007",
       }
     ],
   },
