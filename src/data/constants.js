@@ -182,7 +182,7 @@ export const experiences = [
   {
     id: 0,
     img: "https://media.licdn.com/dms/image/v2/D5622AQEzCWgrh2chlw/feedshare-shrink_800/feedshare-shrink_800/0/1711197017538?e=2147483647&v=beta&t=ZMZmFVoL4qXsPxNkGbrrHrtmK2d9RL65QOskBhiSfX4",
-    role: "Full stack develkoper",
+    role: "Full stack developer",
     company: "Pixel Bharat LLP",
     companyLink: "https://www.pixelbharat.com/",
     date: "April 2024 - Present",
