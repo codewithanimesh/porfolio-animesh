@@ -1,16 +1,19 @@
 import cyber from "./images/cybernews.png";
 import mahaveer from "./images/mahaveer.png";
-import crew from "./images/crewrental.png"
+import bookmypack from "./images/bookmypackage.png";
 import universal from "./images/universal.png"
-import snappy from "./images/snappy.png";
+import giggle from "./images/giggle.png"
 import codex from "./images/codex.png";
-import pixis from "./images/pixis.png"
+
+import astro from "./images/astro.png"
 import weather from "./images/weather.png";
 import nike from "./images/nike.png";
 import simon from "./images/simon.png";
 import alexa from "./images/alexa.png";
 import meme from "./images/memes.jpg"
 import img from "./images/backimage.png"
+import aps from "./images/apslaw.png"
+import varvadhu from "./images/varvadhu.png"
 export const Bio = {
   name: "Animesh Kumar",
   roles: [
@@ -268,15 +271,15 @@ export const projects = [
 
   {
     id: 10,
-    title: "Pixis-Ai",
-    date: "Jun 2023 - Jul 2023",
+    title: "Astronumix",
+    date: "Jun 2024 - Jul 2024",
     description:
-      "PIXIS AI is an image generation app powered by the DALL-E OpenAI API, producing high-quality images with over 90% accuracy. It delivers stunningly accurate and impressive performance consistently.😉.",
-    image: pixis,
-    tags: ["React Native", "JavaScript", "Axios", "Dall-E", "Node"],
+      "Its is numerlogy website made for a client on wordpress. It delivers stunningly accurate and impressive performance consistently.😉.",
+    image: astro,
+    tags: ["Wordpress"],
     category: "Web app",
     github: "https://github.com/Animesh kuamar007/Pixis",
-    webapp: "https://pixis-ai-01a6.onrender.com",
+    webapp: "https://astronumerix.in/",
     member: [
       {
         name: "Animesh Kumar",
@@ -289,11 +292,11 @@ export const projects = [
   },
   {
     id: 90,
-    title: "Mahaveer Ecomm",
+    title: "Book my package",
     date: "Aug 2023 - Sept 2023",
     description:
-      " 🔯 Strengthened security with JWT auth implementation; cutting unauthorized access by 30% 🔯Streamlined admin panel; reducing workload by 20 %.🔯Increased transactions speed by 25% through Braintree and Razorpay integration",
-    image: mahaveer,
+      " 🔯 made in php for booking package for customer they want to travel frequently in their holiday period",
+    image: bookmypack,
     tags: [
       "React Js",
       "MongoDb",
@@ -306,8 +309,8 @@ export const projects = [
       "Context-API",
     ],
     category: "web app",
-    github: "https://github.com/Animesh kuamar007/Ecomm2023",
-    webapp: "https://mahaver-medicos.vercel.app",
+    github: "https://github.com/pixel-bharat/bookpackage",
+    webapp: "https://www.bookmypackage.in/index.php",
     member: [
       {
         name: "Animesh Kumar",
@@ -319,15 +322,15 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Crew-Rental",
+    title: "APS LAW",
     date: "Jan 2023 - Mar 2023",
     description:
-      "Crew-Rental Store, where we make it 40% easy and affordable to get the help you need for your projects! We offer a variety of services 🏢, including providing skilled labours, contractors, and engineers, with Ai chat bots and 3D house 🏠 model generation.",
-    image: crew,
+      "APS-LAW is law website that i made for client for there requirement",
+    image: aps,
     tags: ["Python", "Keras", "OpenAI", "Dall-E", "Regression", "React", "Nodejs", "Tensorflow"],
     category: "machine learning",
-    github: "https://github.com/anshu0202/Rental-Rack",
-    webapp: "https://crewrental.co/",
+    github: "https://github.com/pixel-bharat/APS-Frontend",
+    webapp: "https://apslaw.netlify.app/",
     member: [
       {
         name: "Animesh Kumar",
@@ -347,11 +350,11 @@ export const projects = [
   },
   {
     id: 9,
-    title: "Cyber-News",
+    title: "Var Vadhu",
     date: "Jun 2023 - Jul 2023",
     description:
-      "👨‍💻Cyber News is the latest Website where you can find interesting news from all over the world!! Hope you enjoy it!😎",
-    image: cyber,
+      "👨‍💻var vadhu is a matrimoinial site We Are The Best Wedding Planner & Decor.!😎",
+    image: varvadhu,
     // "https://drive.google.com/u/0/uc?id=1GYN32qwXyuUYwsvItq6gcB7gQINaIK45&export=download",
     tags: [
       "React Js",
@@ -362,7 +365,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Animesh kuamar007/News-Tech",
-    webapp: "https://Animesh kuamar007.github.io/News-Tech",
+    webapp: "darkseagreen-cheetah-444730.hostingersite.com",
     member: [
       {
         name: "Animesh Kumar",
@@ -374,11 +377,11 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Snappy Chat App",
-    date: "Oct 2022 - Nove 2022",
+    title: "Gulp and Giggle",
+    date: "Oct 2023 -  2024",
     description:
-      "Snappy is a chat application makes it easy to communicate with people anywhere in the world by sending and receiving messages in real time. By using React for frontend, MongoDB as database and socket.io 😉.",
-    image: snappy,
+      "Welcome to Gulp n Giggle Cafe, where every visit is an invitation to indulge in not just delicious food, but a sensory experience that delights the soul. Nestled in the heart of [insert location], Gulp n Giggle is more than just a cafe; it’s a haven where culinary artistry meets warm hospitality and vibrant ambiance., MongoDB as database and socket.io 😉.",
+    image: giggle,
     tags: [
       "React Js",
       "MongoDb",
@@ -388,7 +391,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Animesh kuamar007/Snappy-Front",
-    webapp: "https://snappy-7nr7.onrender.com",
+    webapp: "https://mintcream-bison-968116.hostingersite.com/",
     member: [
       {
         name: "Laxmiaknt Saraswat",
@@ -420,15 +423,15 @@ export const projects = [
   },
   {
     id: 0,
-    title: "Universal Movies",
+    title: "Superwin web app",
     date: "Apr 2023 - May 2023",
     description:
-      "This site uses imdb API to manage and display various movies rating , cast, release date and much more interesting information of your favorite movies😉.",
+      "This site is made in react js with clean ui and ux it is gaming web app where too  many gamines available 😉.",
     image: universal,
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
-    github: "https://github.com/Animesh kuamar007/Universal-Movies1",
-    webapp: "https://Animesh kuamar007.github.io/Universal-Movies1",
+    github: "https://github.com/pixel-bharat/SuperwinWeb",
+    webapp: "https://superwin-web.netlify.app/",
     member: [
       {
         name: "Animesh Kumar",
