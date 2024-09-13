@@ -20,11 +20,11 @@ export const Bio = {
     "I am a full-stack developer with over 2 years of experience at Affworld Technologies, where I played a key role in developing cutting-edge websites and software solutions. In my role, I was responsible for both the admin panel and advisor panel of the website, and I also managed AWS server deployments. Additionally, I gained experience as a React Intern at IMMWIT Pvt Ltd. My skillset includes proficiency in React, React Native, Node.js, and MongoDB",
   github: "https://github.com/codewithanimesh",
   resume:
-    "https://drive.google.com/file/d/1YY8PTzh0MpkbDTH12WUVfKehXZ1S21XS/view?usp=drive_link",
+    "https://drive.google.com/file/d/1Z1tLz8TcENK_CUogrEnlcdRil6W8cfJ4/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/animesh-kumar-21b29420b/",
   twitter: "https://github.com/animesh007",
-  insta: "https://www.instagram.com/Animesh kuamar_sarswat",
-  youtube: "https://www.youtube.com/channel/UCiO3jHJTOi-LRoE1Ta4bMLw/featured",
+  insta: "https://www.instagram.com/anniimeshhh?igsh=MXJtMGN1b3RiZjk1Yw==",
+  youtube: "https://www.youtube.com/@animesh108",
 };
 
 export const skills = [
@@ -41,7 +41,7 @@ export const skills = [
         image:
           "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
       },
-      {
+      {                    
         name: "Redux",
         image:
           "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
@@ -178,11 +178,11 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://play-lh.googleusercontent.com/kZ4FIJUT3xUYWwJBJFzSgBxwSSzbF6xF0X0mASK38f3TOyuhDkMscGFkNgw-Fn-mQeY",
-    role: "DevOps & Fullstack Web Developer ",
-    company: "Affworld Technologies Pvt. Ltd.",
-    companyLink: "https://affworld.in",
-    date: "Aug 2023 - Present",
+    img: "https://media.licdn.com/dms/image/v2/D5622AQEzCWgrh2chlw/feedshare-shrink_800/feedshare-shrink_800/0/1711197017538?e=2147483647&v=beta&t=ZMZmFVoL4qXsPxNkGbrrHrtmK2d9RL65QOskBhiSfX4",
+    role: "Full stack develkoper",
+    company: "Pixel Bharat LLP",
+    companyLink: "https://www.pixelbharat.com/",
+    date: "April 2024 - Present",
     desc:
       " 🔯 Developed (2) admin and client panels , Advertisers can publish links (160+live) and marketing content , 🔯 Node.js Managing backend functionality 30% load decrease MongoDB database NoSQL for data management response time under 2 seconds 🔯 Deployment on AWS EC2 40% for faster , scalable performance via CI/CD pileline",
     skills: [
@@ -197,10 +197,11 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://play-lh.googleusercontent.com/kZ4FIJUT3xUYWwJBJFzSgBxwSSzbF6xF0X0mASK38f3TOyuhDkMscGFkNgw-Fn-mQeY",
-    role: "Frontend React Intern",
-    company: "Affworld Technologies Pvt. Ltd.",
-    date: "August 2022 - September 2023",
+    img: "https://www.dhe.org.in/_next/image?url=%2Flogo.png&w=1080&q=75",
+    role: "Full stack intern",
+    company: "Deparment of Holistic Education",
+    companyLink:"https://www.dhe.org.in/",
+    date: "jan 2024 - Apr 2024",
     desc: " 🔯 Working under senior software developers add features like notification, email marketing and frontend responsiveness to mobile version using tailwind css and material UI",
     skills: [
       "ReactJS",
@@ -213,10 +214,10 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "https://media.licdn.com/dms/image/C560BAQHmEdZu7foVRw/company-logo_200_200/0/1519876731644?e=2147483647&v=beta&t=mRw0OTbqcISn159X6uqH3PPdZFfiKM4FKLfB-TGKVIs",
-    role: "Summer Intern | Certificate",
-    company: "IMMWIT Pvt. Ltd.",
-    date: "June 2022 - August 2022",
+    img: "https://media.licdn.com/dms/image/v2/D560BAQHEExgjIaAtvQ/company-logo_200_200/company-logo_200_200/0/1695161406005?e=2147483647&v=beta&t=9pf0PUlm_EKfPFED21rLlhsPFMbUmxhVY21vc44pcTQ",
+    role: "Full Stack Developer",
+    company: "Affworld technology pvt ltd.",
+    date: "Aug 2022 - August 2023",
     desc: " 🔯 Simplified login and registration with Google Authentication, reducing registration time to 3 seconds (60% decrease) 🔯 Enhanced website speed by 20% through cart feature implementation using Context API hooks in an e-commerce project  🔯 Ensured site responsiveness across devices using (2) Bootstrap and Chakra UI librar",
     skills: [
       "Redux",
@@ -229,20 +230,6 @@ export const experiences = [
       "MongoDB",
     ],
   },
-  {
-    id: 3,
-    img: "https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_100_100/0/1635534378574?e=1706745600&v=beta&t=-Q8Nc3MVrIl_3Zaf46c0k81sI9eeYp8uh_OtZVUrkDY",
-    role: "Online Internship ",
-    company: "Stanford University USA.  ",
-    date: "April 2021 - June 2021",
-    desc: " 🔯 During my internship at Code in Place 2021, I joined educators and volunteer teachers worldwide in teaching introductory and advanced Python to over 12,000 students. As part of the internship, I developed an Alexa desktop version Python script 🔯  It allowed users to give voice commands, and the script responded by opening links and tabs using advanced Python techniques. This experience enriched my Python skills and problem-solving abilities while contributing to Code in Place's mission.",
-    skills: [
-      "Python",
-      "Git",
-      "GitHub",
-      "Version Control Syste,",
-    ],
-  },
 
 
 ];
@@ -253,27 +240,27 @@ export const education = [
     img: "https://upload.wikimedia.org/wikipedia/ta/6/68/PTU_logo.jpg",
     school: "IK Gujral Punjab Technical University Kapurthala, Punjab",
     date: "Oct 2020 - July 2024",
-    grade: "8.59 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at IK Gujral Punjab Technical University. I have completed 7 semesters and have a CGPA of 8.59. I have taken courses in Data Structures, Algorithms,Computer Networks Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at PTU Main Campus, where I am learning and working on exciting projects with a team of talented developers.",
+    grade: "8.4 CGPA",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at IK Gujral Punjab Technical University. I have completed my semesters with the cgpa 8.4. I have taken courses in Data Structures, Algorithms,Computer Networks Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at PTU Main Campus, where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
     id: 1,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_50qtTMT1F33m6M_1_kjXyUoYAH3MVprtxg&usqp=CAU",
-    school: "Jawahar Navodaya Vidyalaya Bikaner",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmvSse0h5V68ypoCXAXAGUdGj1Lyht39JbEw&s",
+    school: "sarswati vidya mandir",
     date: "Apr 2019 - July 2020",
-    grade: "91.20%",
-    desc: "I completed my class 12 high school education at Jawahar Navodaya Vidyalaya Bikaner, where I studied Science with Computer Science.",
-    degree: "CBSE(XII), Science with Maths",
+    grade: "81%",
+    desc: "I completed my class 10 high school education at saraswati vidya mandir barwat sena bettiah , where I studied Science with Computer Science.",
+    degree: "CBSE(X), Science with Maths",
   },
   {
     id: 2,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_50qtTMT1F33m6M_1_kjXyUoYAH3MVprtxg&usqp=CAU",
-    school: "Jawahar Navodaya Vidyalaya Bikaner",
-    date: "Apr 2013 - Apr 2019",
-    grade: "92.00%",
-    desc: "I completed my class 10 education at Jawahar Navodaya Vidyalaya Bikaner, where I studied Science with Computer Application.",
-    degree: "CBSE(X), Science",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-KQ87Fkn5D5llvbZU2u5Q0gOSnRRl5nQlYw&s",
+    school: "M.S College motihari",
+    date: "Apr 2018 - Apr 2020",
+    grade: "89.00%",
+    desc: "I completed my class 12 education at Ms college Motihari, where I studied physics chemistry and mathematics as my main subjects.",
+    degree: "BSEB(XII), Science",
   },
 ];
 
