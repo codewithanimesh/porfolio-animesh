@@ -394,8 +394,8 @@ export const projects = [
     webapp: "https://mintcream-bison-968116.hostingersite.com/",
     member: [
       {
-        name: "Laxmiaknt Saraswat",
-        img: "https://avatars.githubusercontent.com/u/74814381?v=4",
+        name: "Animesh kumar",
+        img: "https://cdn.pixabay.com/photo/2014/04/03/11/47/avatar-312160_1280.png",
         linkedin: "https://www.linkedin.com/in/Animesh kuamar-saraswat",
         github: "https://github.com/Animesh kuamar007",
       }
